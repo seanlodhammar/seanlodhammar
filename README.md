@@ -1,4 +1,8 @@
 ## About Me
+Hello! My name is Sean and I am 14 years old. 
+I mainly work in Web Development and I am a Full-Stack Developer.
+I am currently learning about Node.js and Express.js.
+I enjoy Drama shows and Anime.
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -12,7 +16,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-I like working in Frontend and Backend.
+
 
 <!---
 seanlodhammar/seanlodhammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
