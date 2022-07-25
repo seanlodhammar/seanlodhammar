@@ -4,6 +4,7 @@
 * I am currently learning about Node.js and Express.js.
 * I will (hopefully) make more projects and contribute to GitHub.
 
+## Languages, Frameworks, Databases, Runtimes, Interpreters and Text Editors
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
