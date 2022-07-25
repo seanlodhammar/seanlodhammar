@@ -2,7 +2,7 @@
 * My name is Sean and I am 14 years old. 
 * I mainly work in Web Development and I am a Full-Stack Developer.
 * I am currently doing a course on Node.js and Express.js.
-* I will (hopefully) make more projects and contribute to GitHub.
+* I will (hopefully) create more projects and contribute to GitHub.
 
 ## Languages, Frameworks, Databases, Runtimes, Interpreters and Text Editors
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
