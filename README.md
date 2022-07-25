@@ -1,8 +1,8 @@
 ## About Me
-Hello! My name is Sean and I am 14 years old. 
+* My name is Sean and I am 14 years old. 
 * I mainly work in Web Development and I am a Full-Stack Developer.
 * I am currently learning about Node.js and Express.js.
-* I enjoy Drama shows and Anime.
+* I will (hopefully) make more projects and contribute to GitHub.
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
