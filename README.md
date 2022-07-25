@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @seanlodhammar
-- 👀 I’m interested in Web Development and Python
-- 🌱 I’m currently learning more about Node.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on Twitter via @seanlodhammar
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+I like working in Frontend and Backend.
 
 <!---
 seanlodhammar/seanlodhammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
