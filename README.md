@@ -19,9 +19,8 @@
 
 - - - -
 Feel free to contact me!
-* ![Discord]([https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white](discordapp.com/users/797595451972386836/)
-* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-* ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+* <a href="https://discordapp.com/users/797595451972386836/"><img>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</img></a>
+* <a href="https://twitter.com/seanlodhammar"><img>![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</img></a>
 
 <!---
 seanlodhammar/seanlodhammar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
