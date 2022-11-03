@@ -1,5 +1,5 @@
 ## About Me
-* My name is Sean and I am 16 years old. 
+* My name is Sean and I am a teenager. 
 * I mainly work in Web Development and I am a Full-Stack Developer.
 * I am currently doing a course on Node.js and Express.js.
 * I will (hopefully) create more projects and contribute to GitHub.
