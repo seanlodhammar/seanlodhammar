@@ -1,8 +1,7 @@
 ## About Me
-* My name is Sean and I am a teenager. 
-* I mainly work in Web Development and I am a Full-Stack Developer.
-* I am currently doing a course on Node.js and Express.js.
-* I will (hopefully) create more projects and contribute to GitHub.
+* Teenager that is super cool and sick and co...
+* Full Stack Developer working on new projects
+* Trying to contribute to Github more
 
 ## Languages, Frameworks, Databases, Runtimes, Interpreters and Text Editors
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -18,7 +17,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 - - - -
-Feel free to contact me!
+Contact me here
 * <a href="https://discordapp.com/users/797595451972386836/"><img>![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</img></a>
 * <a href="https://twitter.com/seanlodhammar"><img>![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</img></a>
 
