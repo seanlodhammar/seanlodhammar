@@ -1,7 +1,7 @@
 ## About Me
-* Teenager that is super cool and sick and co...
-* Full Stack Developer working on new projects
-* Trying to contribute to Github more
+* Teenager that is super cool and sick and co-
+* Full Stack Developer
+* Trying to contribute to Github more (that ain't happening son)
 
 ## Languages, Frameworks, Databases, Runtimes, Interpreters and Text Editors
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
