@@ -1,6 +1,6 @@
 ## About Me
 * Full Stack Developer
-* Trying to contribute to Github more (that ain't happening son)
+* Trying to contribute to Github more
 
 ## Languages, Frameworks, Databases, Runtimes, Interpreters and Text Editors
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
