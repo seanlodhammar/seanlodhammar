@@ -1,5 +1,4 @@
 ## About Me
-* Teenager that is super cool and sick and co-
 * Full Stack Developer
 * Trying to contribute to Github more (that ain't happening son)
 
